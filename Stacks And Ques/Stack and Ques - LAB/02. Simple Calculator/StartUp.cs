@@ -17,6 +17,8 @@ namespace _02._Simple_Calculator
             var inputToStack = new Stack<string>(input.Reverse()); // when we push the input string array to a stack all of the elements will be reversed
                                                                    // this is why we are using the LINQ function to again reverse the strings in the stack
 
+            
+
             while (inputToStack.Count > 1) 
             {
                 var leftOperator = int.Parse(inputToStack.Pop()); // we need to pass the string to an integer in order to perform our operand
