@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2024
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{59CAFC6E-B43F-437A-A1D6-4BF4B205F5B2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Matching Brackets", "04. Matching Brakets\04. Matching Brackets.csproj", "{F9B22130-5333-4531-B6D0-B05E0C458149}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{59CAFC6E-B43F-437A-A1D6-4BF4B205F5B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{59CAFC6E-B43F-437A-A1D6-4BF4B205F5B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{59CAFC6E-B43F-437A-A1D6-4BF4B205F5B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{59CAFC6E-B43F-437A-A1D6-4BF4B205F5B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9B22130-5333-4531-B6D0-B05E0C458149}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9B22130-5333-4531-B6D0-B05E0C458149}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9B22130-5333-4531-B6D0-B05E0C458149}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9B22130-5333-4531-B6D0-B05E0C458149}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {FB40A151-8306-498C-AF02-F6F45178FB29}
+		SolutionGuid = {3FA6AA72-97E7-4434-8107-58A50E0C42FB}
 	EndGlobalSection
 EndGlobal
